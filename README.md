@@ -1,3 +1,3 @@
 # hello-world
-hello-world repo
-this edit was updating from readme-edits branch
+hello-world repo.
+This edit was updated from readme-edits branch.
